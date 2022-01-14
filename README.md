@@ -11,9 +11,11 @@ The purpose of this project is to refactor as script that was used analyze stock
 Below are the outputs for 2017 and 2018 after pressing the "Run Analysis for All Stocks" button and choosing desired year.
 
 
-![image](https://user-images.githubusercontent.com/96553992/149435889-53e1175f-f914-4cf9-ab02-b3dbe666d6c1.png)
+![image](https://user-images.githubusercontent.com/96553992/149592139-0e8a2d13-9410-424f-a453-33be9d35e837.png)
 
-<img width="457" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/96553992/149584160-aca6108c-a0a0-4c64-8361-7061f551c109.png">
+
+![image](https://user-images.githubusercontent.com/96553992/149592167-f866c7ef-405e-454c-a191-0097f9cae730.png)
+
 
 In general, the stocks provided better return in 2017 compared to 2018. In 2017, all stocks but "TERP" stock had positive return. While in 2018, only "RUN" and "ENPH" stock had positive return while the rest were negative. As for total daily volume, 2017 had total average of 263,886,592 and 2018 had total average of 275,503,183. More stock was traded on average for the year of 2018. The stock that had the highest total daily volume was "SPWR" and in 2018 "ENPH" is the highest. In general, there was no consistent correlation that indicated that more total daily volume would lead to increased or more favorable return. The stock "ENPH", according to this data, is the "safest" option to the invest of these 12 stocks based on total daily volume and return.
 
