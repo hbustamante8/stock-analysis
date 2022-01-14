@@ -3,7 +3,7 @@
 
 ## Overview of Project
 ### Purpose 
-The purpose of this project is to refactor as script that was used analyze stock market data in 2017/2018 and see the results as well as differences between the two different years. There are 12 different stocks within the data source which have data from 2017 and 2018. With a click of the button "Run Analysis for All Stocks”, within the "All Stocks Analysis" sheet, total daily volume and return are calculated based on the year chosen (2017/2018). After refactoring the original script, the advantages and disadvantages are reflected on in general and to this specific VBA project.
+The purpose of this project is to refactor a VBA script that was used analyze stock market data in 2017/2018 and see the results as well as differences between the two different years. There are 12 different stocks within the data source which have data from 2017 and 2018. With a click of the button "Run Analysis for All Stocks”, within the "All Stocks Analysis" sheet, total daily volume and return are calculated based on the year chosen (2017/2018). This allows for analysis to be done on a specific stock or the year as a whole. After refactoring the original script, the advantages and disadvantages are reflected on in general and to this specific VBA project.
 
 ## Results
 
