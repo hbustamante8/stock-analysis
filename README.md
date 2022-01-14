@@ -10,7 +10,7 @@ The purpose of this project is to refactor code that was used analyze stock mark
 ### Comparing the stocks performances between 2017 and 2018
 Below are the outputsfor 2017 and 2018 after pressing the "Run Analysis for All Stocks" button and choosing desired year.
 ![image](https://user-images.githubusercontent.com/96553992/149435889-53e1175f-f914-4cf9-ab02-b3dbe666d6c1.png)
-![image](https://user-images.githubusercontent.com/96553992/149435900-36599385-d2c6-4467-9c29-c9d78c142fb7.png)
+<img width="457" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/96553992/149584160-aca6108c-a0a0-4c64-8361-7061f551c109.png">
 
 In general, the stock provided better return in 2017 compared to 2018. In 2017, all stocks but "TERP" stock had positive return. While in 2018, only "RUN" and "ENPH" stock had positive return while the rest were negative. As for total daily volume, 2017 had total average of 263,886,592 and 2018 had total average of 275,503,183. As a whole, more stock was traded on average for the year of 2018. # add more about analysis??
 
