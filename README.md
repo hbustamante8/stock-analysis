@@ -23,7 +23,7 @@ In general, the stocks provided better return in 2017 compared to 2018. In 2017,
 
 ### Execution times between original and refactored script
 
-The execution time for the refactored macro script ran faster than the original macro script. On average the execution for the original script took about 0.30 seconds to run the macro for both 2017 and 2018. The refactored macro script took about .08 seconds on average to run the macro for both years. The increased speed in running the macro was due to merging of the two macros in the refactored script as well as implementing a ticker index to loop through the stock data quicker. 
+The execution time for the refactored macro script ran faster than the original macro script. On average the execution for the original script took about 0.30 seconds to run the macro for both 2017 and 2018. The refactored macro script took about .09 seconds on average to run the macro for both years. The increased speed in running the macro was due to merging of the two macros in the refactored script as well as implementing a ticker index to loop through the stock data quicker. 
 
 
 
@@ -38,5 +38,5 @@ One of the big disadvantages of refactoring code is the amount of time that it t
 
 ### Pros and Cons of refactoring the original All Stocks Analysis VBA script 
 
-The pros of refactoring the original "All Stocks Analysis" script was the amount of time that was saved. The refactored script ran 0.22 seconds faster on average the original script. Another pro was the readability of the script after refactoring it. Someone seeing my code for the first time could interpret my code with ease and follow along to how I got to the final product. On the other hand, a con of refactoring the "All Stocks Analysis" script was the additional time that was spent improving the quality of the code. This extra time could have been spent adding different features to the code or analyzing the results earlier.
+The pros of refactoring the original "All Stocks Analysis" script was the amount of time that was saved. The refactored script ran 0.21 seconds faster on average the original script. Another pro was the readability of the script after refactoring it. Someone seeing my code for the first time could interpret my code with ease and follow along to how I got to the final product. On the other hand, a con of refactoring the "All Stocks Analysis" script was the additional time that was spent improving the quality of the code. This extra time could have been spent adding different features to the code or analyzing the results earlier.
 
