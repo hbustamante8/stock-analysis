@@ -3,12 +3,14 @@
 
 ## Overview of Project
 ### Purpose 
-The purpose of this project is to refactor code that was used analyze stock market data in 2017 and 2018 and see the reults as well as differences between the two different scripts. There are 12 different stocks within the data source which have data from 2017 and 2018. With a click of the button "Run Analysis for All Stocks" , within the "All Stocks Analysis" sheet, a total daily volume and return are calculated based on the year chosen (2017/2018). 
+The purpose of this project is to refactor as script that was used analyze stock market data in 2017/2018 and see the results as well as differences between the two different years. There are 12 different stocks within the data source which have data from 2017 and 2018. With a click of the button "Run Analysis for All Stocks" , within the "All Stocks Analysis" sheet, total daily volume and return are calculated based on the year chosen (2017/2018). After recfacotring the original script, the advantages and disadvantages are reflected on in general and to this specific VBA project.
 
 ## Results
 
 ### Comparing the stocks performances between 2017 and 2018
-Below are the outputsfor 2017 and 2018 after pressing the "Run Analysis for All Stocks" button and choosing desired year.
+Below are the outputs for 2017 and 2018 after pressing the "Run Analysis for All Stocks" button and choosing desired year.
+
+
 ![image](https://user-images.githubusercontent.com/96553992/149435889-53e1175f-f914-4cf9-ab02-b3dbe666d6c1.png)
 
 <img width="457" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/96553992/149584160-aca6108c-a0a0-4c64-8361-7061f551c109.png">
@@ -31,5 +33,5 @@ One of the big disadvantages of refactoring code is the amount of time that it t
 
 ### Pros and Cons of refactoring the original All Stocks Analysis VBA script 
 
-
+The pros of refactoring the original "All Stocks Analysis" script was the amount of time that was saved. The refactored script ran 0.22 seconds faster on average the the origincal script. Another pro was the readability of the script after refactoring it. Someone seeing my code for the first time could interpret what my code with ease and follow along to how I got to the final product. On the other hand, a con of refactoring the "All Stocks Analysis" script was the additional time that was spent improving the quality of the code. This extra time could have been spent adding different features to the code. 
 
